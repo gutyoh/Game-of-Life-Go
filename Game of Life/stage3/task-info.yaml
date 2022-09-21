@@ -1,0 +1,7 @@
+type: edu
+custom_name: stage3
+files:
+- name: test/GameOfLifeTest.java
+  visible: false
+- name: test/Generation.java
+  visible: false

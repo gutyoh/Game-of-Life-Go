@@ -1,0 +1,5 @@
+type: edu
+custom_name: stage5
+files:
+- name: test/GameOfLifeTest.java
+  visible: false

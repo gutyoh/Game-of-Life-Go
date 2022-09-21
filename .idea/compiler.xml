@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Hyperskill_Java_Course1.Game_of_Life-stage1.main" target="16" />
+      <module name="Hyperskill_Java_Course1.Game_of_Life-stage2.main" target="16" />
+      <module name="Hyperskill_Java_Course1.Game_of_Life-stage3.main" target="16" />
+      <module name="Hyperskill_Java_Course1.Game_of_Life-stage4.main" target="16" />
+      <module name="Hyperskill_Java_Course1.Game_of_Life-stage5.main" target="16" />
+      <module name="Hyperskill_Java_Course1.util.main" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

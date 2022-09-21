@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hyperskill_Java_Course1.iml" filepath="$PROJECT_DIR$/.idea/modules/Hyperskill_Java_Course1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life/stage1/Hyperskill_Java_Course1.Game_of_Life-stage1.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life/stage1/Hyperskill_Java_Course1.Game_of_Life-stage1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life/stage1/Hyperskill_Java_Course1.Game_of_Life-stage1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life/stage1/Hyperskill_Java_Course1.Game_of_Life-stage1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life/stage2/Hyperskill_Java_Course1.Game_of_Life-stage2.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life/stage2/Hyperskill_Java_Course1.Game_of_Life-stage2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life/stage2/Hyperskill_Java_Course1.Game_of_Life-stage2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life/stage2/Hyperskill_Java_Course1.Game_of_Life-stage2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life/stage2/Hyperskill_Java_Course1.Game_of_Life-stage2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life/stage2/Hyperskill_Java_Course1.Game_of_Life-stage2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life/stage3/Hyperskill_Java_Course1.Game_of_Life-stage3.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life/stage3/Hyperskill_Java_Course1.Game_of_Life-stage3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life/stage3/Hyperskill_Java_Course1.Game_of_Life-stage3.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life/stage3/Hyperskill_Java_Course1.Game_of_Life-stage3.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life/stage3/Hyperskill_Java_Course1.Game_of_Life-stage3.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life/stage3/Hyperskill_Java_Course1.Game_of_Life-stage3.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life/stage4/Hyperskill_Java_Course1.Game_of_Life-stage4.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life/stage4/Hyperskill_Java_Course1.Game_of_Life-stage4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life/stage4/Hyperskill_Java_Course1.Game_of_Life-stage4.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life/stage4/Hyperskill_Java_Course1.Game_of_Life-stage4.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life/stage4/Hyperskill_Java_Course1.Game_of_Life-stage4.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life/stage4/Hyperskill_Java_Course1.Game_of_Life-stage4.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life/stage5/Hyperskill_Java_Course1.Game_of_Life-stage5.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life/stage5/Hyperskill_Java_Course1.Game_of_Life-stage5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life/stage5/Hyperskill_Java_Course1.Game_of_Life-stage5.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life/stage5/Hyperskill_Java_Course1.Game_of_Life-stage5.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life/stage5/Hyperskill_Java_Course1.Game_of_Life-stage5.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life/stage5/Hyperskill_Java_Course1.Game_of_Life-stage5.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Hyperskill_Java_Course1.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Hyperskill_Java_Course1.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Hyperskill_Java_Course1.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Hyperskill_Java_Course1.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Hyperskill_Java_Course1.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Hyperskill_Java_Course1.util.test.iml" />
+    </modules>
+  </component>
+</project>

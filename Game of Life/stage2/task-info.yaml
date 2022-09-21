@@ -1,0 +1,9 @@
+type: edu
+custom_name: stage2
+files:
+- name: test/GameOfLifeTest.java
+  visible: false
+- name: main.go
+  visible: true
+- name: main.exe
+  visible: true
